@@ -1,0 +1,40 @@
+{
+  "foodItems": [
+    {
+      "id":1,
+      "title": "Vegan Pad Thai",
+      "description": "A classic Thai dish made with rice noodles, vegetables, and tofu in a sweet and tangy sauce.",
+      "image": "https://example.com/pad-thai.jpg",
+      "cuisine": "Thai",
+      "vegan": true,
+      "fat_free": true
+    },
+    {
+      "id":2,
+      "title": "Mediterranean Salad",
+      "description": "A refreshing salad made with tomatoes, cucumbers, feta cheese, and olives in a lemon vinaigrette.",
+      "image": "https://example.com/mediterranean-salad.jpg",
+      "cuisine": "Mediterranean",
+      "vegan": false,
+      "fat_free": false
+    },
+    {
+      "id":3,
+      "title": "Vegetable Curry",
+      "description": "A spicy and flavorful Indian curry made with mixed vegetables and coconut milk.",
+      "image": "https://example.com/vegetable-curry.jpg",
+      "cuisine": "Indian",
+      "vegan": true,
+      "fat_free": false
+    },
+    {
+      "id":4,
+      "title": "Grilled Chicken Skewers",
+      "description": "Tender chicken marinated in herbs and spices and grilled to perfection on skewers.",
+      "image": "https://example.com/chicken-skewers.jpg",
+      "cuisine": "Mediterranean",
+      "vegan": false,
+      "fat_free": false
+    }
+  ]
+}
